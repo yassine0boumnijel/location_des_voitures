@@ -24,7 +24,7 @@ L’envoie et réception des messages.
 
 Les technologies utilisées :
 1)	La partie back-end :
-Le Framework PHP : LARAVEL 5.8
+Le Framework PHP : LARAVEL 
 2)	La partie front-end :
 Dans les vues du Framework PHP LARAVEL j’ai travaillé avec :
 -	BOOTSTRAP
